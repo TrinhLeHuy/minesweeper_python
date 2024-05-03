@@ -1,0 +1,11 @@
+Time: 16 s
+Time: 18 s
+Time: 21 s
+Time: 22 s
+Time: 26 s
+Time: 29 s
+Time: 30 s
+Time: 35 s
+Time: 42 s
+Time: 43 s
+Time: 47 s
